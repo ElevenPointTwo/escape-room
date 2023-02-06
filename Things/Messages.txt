@@ -1,0 +1,6 @@
+Greetings! Welcome to the escape room. Here you will use clues to find items that will lead your way to victory! Why not start by getting yourself a treat? Click anywhere to continue!
+You found some cookies! Someone will really enjoy those. Share a cookie by clicking on them! 
+You gave some cookies to Parry the robin! Parry will now offer advice for the next clue if you click on him! He might have some easter eggs too.
+You found a phone! Find the note with its password first to open it! Press the tab key to open or close the phone once you find the note.
+You found a note! Read what it says by pressing left shift. 
+You found a watering can! Surely there's something to do with it. Maybe try to click in the inventory and drag it?
